@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App15.TitulPage"
+             xmlns:ff="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             Title="Main">
+    
+    <ContentPage.Content>
+        <ScrollView Orientation="Vertical">
+            <StackLayout>
+                <StackLayout Orientation="Vertical" BackgroundColor="White">
+                    <Image Source="titul9.jpg" Aspect="AspectFit" VerticalOptions="Start"/>
+                    <Image Source="titul.jpg" Aspect="AspectFit" VerticalOptions="Start"/>
+                </StackLayout>
+                <Label Text="__________"
+                       Style="{StaticResource header}"/>
+                <Label Text="  " 
+                       HorizontalOptions="Center"/>
+                <Label Text="Our business divisions."
+                       Style="{StaticResource header}"
+                       x:Name="label1"/>
+                <Label Text="__________"
+                       Style="{StaticResource header}"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Label Text="Mercedes-Benz AG is one of the largest manufacturers of premium passenger cars. 
+In 2018, it sold more than 2.3 million cars and over 420,000 vans. In its two business divisions, 
+Mercedes-Benz AG is continually expanding its worldwide production network with over 
+40 production sites on four continents, while aligning itself to meet the requirements of electric mobility. 
+At the same time, the company is developing its global battery production network on three continents. 
+Sustainable actions play a decisive role in both business divisions."
+                           Style="{StaticResource article}"
+                           x:Name="label2"
+                           Grid.Column="0" Grid.Row="0"/>
+                    <Label Text="To the company, sustainability means creating value for all stakeholders on a lasting basis: 
+customers, employees, investors, business partners and the society as a whole. The basis for this is 
+the sustainable business strategy of Daimler in which the company takes responsibility for the economic, 
+ecological and social effects of its business activities and looks at the entire value chain."
+                           Style="{StaticResource article}"
+                           x:Name="label3"
+                           Grid.Column="1" Grid.Row="0"/>
+                </Grid>
+
+                <Image Source="titul2.jpg" 
+                       Aspect="AspectFit"
+                       Margin="0,70,0,0"/>
+
+                <Label Text="__________"
+                       Style="{StaticResource header}"
+                       Margin="0,40,0,0"/>
+                <Label Text="  " 
+                       HorizontalOptions="Center"/>
+                <Label Text="Mercedes-Benz Cars."
+                       Style="{StaticResource header}"
+                       x:Name="label4"/>
+                <Label Text="__________"
+                       Style="{StaticResource header}"/>
+
+                <ScrollView Orientation="Horizontal">
+                    <StackLayout Orientation="Horizontal" HeightRequest="350" Margin="0,40,0,0">
+                        <Image Source="titul3.jpg" Aspect="AspectFit"/>
+                        <Image Source="titul4.jpg" Aspect="AspectFit"/>
+                        <Image Source="titul5.jpg" Aspect="AspectFit"/>
+                        <Image Source="titul7.jpg" Aspect="AspectFit"/>
+                        <Image Source="titul6.jpg" Aspect="AspectFit"/>
+                    </StackLayout>
+                </ScrollView>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Label Text="The Mercedes-Benz Cars range covers every passenger car segment: from the urban microcar by 
+smart, to the premium and luxury vehicles by Mercedes-Benz and Mercedes-Maybach, to the performance 
+and sports cars by Mercedes-AMG. In this way, the Cars division of Mercedes-Benz AG ensures individual 
+mobility for a vast spectrum of customer needs. The company has set itself the goal of developing the 
+world's safest and most efficient cars. With the technology brand EQ, Mercedes-Benz Cars is driving 
+forward the systematic development of alternative drives: the aim is to electrify the entire portfolio by 2022."
+                           Style="{StaticResource article}"
+                           Grid.Column="0" Grid.Row="0"
+                           x:Name="label5"/>
+                    <Label Text="The company will offer a range of electrified models in each segment, 
+including 48-volt models, a wide choice of plug-in hybrids, and all-electric vehicles 
+with battery and/or fuel cell. Mercedes-Benz Cars broke its sales record in 2018, selling 
+2,382,791 vehicles. Mercedes-Benz recorded the highest unit sales of any premium brand in 
+the automotive industry for the third time in succession."
+                           Style="{StaticResource article}"
+                           Grid.Column="1" Grid.Row="0"
+                           x:Name="label6"/>
+                </Grid>
+                <Label Text="__________"
+                       Style="{StaticResource header}"
+                       Margin="0,40,0,0"/>
+                <Label Text="  " 
+                       HorizontalOptions="Center"/>
+                <Label Text="Ambition 2039: the road to"
+                       Style="{StaticResource header}"
+                       HorizontalOptions="Center"
+                       x:Name="label7"/>
+                <Label Text="sustainable mobility."
+                       Style="{StaticResource header}"
+                       HorizontalOptions="Center"
+                       x:Name="label8"/>
+                <Label Text="__________"
+                       Style="{StaticResource header}"/>
+                <Label Text="  " 
+                       HorizontalOptions="Center"/>
+
+                <Image Source="titul8.jpg"
+                           Margin="10,0,10,0"
+                           VerticalOptions="Start"/>
+
+                <Label Text="Under the heading Ambition 2039, Mercedes-Benz Cars has set itself ambitious yet 
+realistic goals. As part of this, the automotive manufacturer is examining the issue of sustainability along the entire value chain. 
+The goal is the transformation of the full range of passenger cars into a carbon-neutral product range as of 2039. This includes 
+topics such as raw materials and the supply chain, the production of the vehicles, their use 
+phase and recycling concepts. Similar transformation plans are being developed for the commercial vehicles. 
+Already during the development of a new model, Mercedes-Benz Cars looks at its environmental performance over the entire 
+life cycle. Vehicles from Mercedes-Benz Cars are scrutinised in a comprehensive life-cycle assessment, the so-called 360-degree environmental 
+check: from manufacture of the raw materials to production and from vehicle operation to recycling at the end of the vehicle's service 
+life – a long way off in the case of a new Mercedes-Benz."
+                               FontSize="Small"
+                               Margin="30,0,30,0"
+                               x:Name="label9"/>
+
+                <Label Text="Nikita Zhukov© 2019"
+                       VerticalOptions="End"
+                       HorizontalOptions="Center"
+                       FontSize="Medium"
+                       TextColor="Gray"
+                       Margin="0,10,0,20"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

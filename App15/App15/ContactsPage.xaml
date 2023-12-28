@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App15.ContactsPage"
+             Title="">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <SearchBar x:Name="search" 
+                       Placeholder="Enter your city..."
+                       TextChanged="Search_TextChanged"/>
+            <ListView x:Name="listView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding City}" Detail="{Binding Phone}">
+                        </TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App15.FriendPage"
+             Title="Add review">
+    <StackLayout>
+        <StackLayout x:Name="friendStack">
+            <Label Text="" />
+            <Entry Text="{Binding Name}" Placeholder="Your name" FontSize="Medium" x:Name="name"/>
+            <Label Text="" />
+            <Entry Text="{Binding Email}" Placeholder="Mercedes-Benz vehicle model" FontSize="Medium" x:Name="model"/>
+            <Label Text=""/>
+            <Editor Text="{Binding Phone}" Placeholder="Your review" FontSize="Medium" x:Name="rev"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Button Text="Add" x:Name="Add" Command="{Binding ListViewModel.SaveFriendCommand}" CommandParameter="{Binding}" />
+            <Button Text="Delete" x:Name="Delete" Command="{Binding ListViewModel.DeleteFriendCommand}" CommandParameter="{Binding}" />
+            <Button Text="Back" Command="{Binding Path=ListViewModel.BackCommand}" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

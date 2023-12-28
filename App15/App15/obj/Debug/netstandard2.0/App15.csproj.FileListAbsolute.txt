@@ -1,0 +1,153 @@
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/App15.csprojAssemblyReference.cache
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/App15.csproj.CoreCompileInputs.cache
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/App15.AssemblyInfoInputs.cache
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/App15.AssemblyInfo.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ContactsPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/TitulPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/AclassPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/AmggtPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/BclassPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/CclassPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/ClaPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/ClsPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EclassPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EqcPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EqvPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GclassPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlaPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlbPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlcPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlePage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlsPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/MaybachPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SclassPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SlcPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SlPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/VclassPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/XclassPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/Splash.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/bin/Debug/netstandard2.0/Mercedes-Benz.deps.json
+C:/Users/Nikita/source/repos/App15/App15/App15/bin/Debug/netstandard2.0/Mercedes-Benz.dll
+C:/Users/Nikita/source/repos/App15/App15/App15/bin/Debug/netstandard2.0/Mercedes-Benz.pdb
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/Mercedes-Benz.dll
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/Mercedes-Benz.pdb
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/Mvvm/FriendListPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/Mvvm/FriendPage.xaml.g.cs
+C:/Users/Nikita/source/repos/App15/App15/App15/obj/Debug/netstandard2.0/XamlC.stamp
+E:/Labs/Xamarin project/App15/App15/App15/bin/Debug/netstandard2.0/Mercedes-Benz.deps.json
+E:/Labs/Xamarin project/App15/App15/App15/bin/Debug/netstandard2.0/Mercedes-Benz.dll
+E:/Labs/Xamarin project/App15/App15/App15/bin/Debug/netstandard2.0/Mercedes-Benz.pdb
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.csprojAssemblyReference.cache
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ContactsPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/AclassPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/AmggtPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/BclassPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/CclassPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/ClaPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/ClsPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EclassPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EqcPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EqvPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GclassPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlaPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlbPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlcPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlePage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlsPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/MaybachPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SclassPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SlcPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SlPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/VclassPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/XclassPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mvvm/FriendListPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mvvm/FriendPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Splash.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/TitulPage.xaml.g.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.csproj.CoreCompileInputs.cache
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.AssemblyInfoInputs.cache
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.AssemblyInfo.cs
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/XamlC.stamp
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mercedes-Benz.dll
+E:/Labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mercedes-Benz.pdb
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mercedes-Benz.dll
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mercedes-Benz.pdb
+C:/Новая папка/Xamarin project/App15/App15/App15/bin/Debug/netstandard2.0/Mercedes-Benz.deps.json
+C:/Новая папка/Xamarin project/App15/App15/App15/bin/Debug/netstandard2.0/Mercedes-Benz.dll
+C:/Новая папка/Xamarin project/App15/App15/App15/bin/Debug/netstandard2.0/Mercedes-Benz.pdb
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.csprojAssemblyReference.cache
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ContactsPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/AclassPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/AmggtPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/BclassPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/CclassPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/ClaPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/ClsPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EclassPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EqcPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EqvPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GclassPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlaPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlbPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlcPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlePage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlsPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/MaybachPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SclassPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SlcPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SlPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/VclassPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/XclassPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mvvm/FriendListPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mvvm/FriendPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Splash.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/TitulPage.xaml.g.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.AssemblyInfoInputs.cache
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.AssemblyInfo.cs
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.csproj.CoreCompileInputs.cache
+C:/Новая папка/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.csproj.AssemblyReference.cache
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ContactsPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/AclassPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/AmggtPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/BclassPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/CclassPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/ClaPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/ClsPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EclassPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EqcPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/EqvPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GclassPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlaPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlbPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlcPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlePage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/GlsPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/MaybachPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SclassPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SlcPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/SlPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/VclassPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/ModelsPages/XclassPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mvvm/FriendListPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mvvm/FriendPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Splash.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/TitulPage.xaml.g.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.AssemblyInfoInputs.cache
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.AssemblyInfo.cs
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/App15.csproj.CoreCompileInputs.cache
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mercedes-Benz.dll
+/Users/nszhukov/Documents/x_labs/Xamarin project/App15/App15/App15/obj/Debug/netstandard2.0/Mercedes-Benz.pdb

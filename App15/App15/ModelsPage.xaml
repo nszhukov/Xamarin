@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App15.ModelsPage"
+             Title="Vehicles">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid BackgroundColor="White">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <ImageButton Source="aclass.jpg"
+                         Grid.Row="0" Grid.Column="0"
+                         BackgroundColor="White"
+                         x:Name="buttonAclass"
+                         Clicked="ButtonAclass_Clicked"/>
+                <ImageButton Source="bclass.jpg"
+                         Grid.Row="0" Grid.Column="1"
+                         BackgroundColor="White"
+                         x:Name="buttonBclass"
+                         Clicked="ButtonBclass_Clicked"/>
+                <ImageButton Source="cclass.jpg"
+                         Grid.Row="0" Grid.Column="2"
+                         BackgroundColor="White"
+                         x:Name="buttonCclass"
+                         Clicked="ButtonCclass_Clicked"/>
+
+                <ImageButton Source="cla.jpg"
+                         Grid.Row="1" Grid.Column="0"
+                         BackgroundColor="White"
+                         x:Name="buttonCla"
+                         Clicked="ButtonCla_Clicked"/>
+                <ImageButton Source="cls.jpg"
+                         Grid.Row="1" Grid.Column="1"
+                         BackgroundColor="White"
+                         x:Name="buttonCls"
+                         Clicked="ButtonCls_Clicked"/>
+                <ImageButton Source="eclass.jpg"
+                         Grid.Row="1" Grid.Column="2"
+                         BackgroundColor="White"
+                         x:Name="buttonEclass"
+                         Clicked="ButtonEclass_Clicked"/>
+
+                <ImageButton Source="eqc.jpg"
+                         Grid.Row="2" Grid.Column="0"
+                         BackgroundColor="White"
+                         x:Name="buttonEqc"
+                         Clicked="ButtonEqc_Clicked"/>
+                <ImageButton Source="gclass.jpg"
+                         Grid.Row="2" Grid.Column="1"
+                         BackgroundColor="White"
+                         x:Name="buttonGclass"
+                         Clicked="ButtonGclass_Clicked"/>
+                <ImageButton Source="gla.jpg"
+                         Grid.Row="2" Grid.Column="2"
+                         BackgroundColor="White"
+                         x:Name="buttonGla"
+                         Clicked="ButtonGla_Clicked"/>
+
+                <ImageButton Source="glb.jpg"
+                         Grid.Row="3" Grid.Column="0"
+                         BackgroundColor="White"
+                         x:Name="buttonGlb"
+                         Clicked="ButtonGlb_Clicked"/>
+                <ImageButton Source="glc.jpg"
+                         Grid.Row="3" Grid.Column="1"
+                         BackgroundColor="White"
+                         x:Name="buttonGlc"
+                         Clicked="ButtonGlc_Clicked"/>
+                <ImageButton Source="gle.jpg"
+                         Grid.Row="3" Grid.Column="2"
+                         BackgroundColor="White"
+                         x:Name="buttonGle"
+                         Clicked="ButtonGle_Clicked"/>
+
+                <ImageButton Source="gls.jpg"
+                         Grid.Row="4" Grid.Column="0"
+                         BackgroundColor="White"
+                         x:Name="buttonGls"
+                         Clicked="ButtonGls_Clicked"/>
+                <ImageButton Source="sclass.jpg"
+                         Grid.Row="4" Grid.Column="1"
+                         BackgroundColor="White"
+                         x:Name="buttonSclass"
+                         Clicked="ButtonSclass_Clicked"/>
+                <ImageButton Source="sl.jpg"
+                         Grid.Row="4" Grid.Column="2"
+                         BackgroundColor="White"
+                         x:Name="buttonSl"
+                         Clicked="ButtonSl_Clicked"/>
+
+                <ImageButton Source="slc.jpg"
+                         Grid.Row="5" Grid.Column="0"
+                         BackgroundColor="White"
+                         x:Name="buttonSlc"
+                         Clicked="ButtonSlc_Clicked"/>
+                <ImageButton Source="vclass.jpg"
+                         Grid.Row="5" Grid.Column="1"
+                         BackgroundColor="White"
+                         x:Name="buttonVclass"
+                         Clicked="ButtonVclass_Clicked"/>
+                <ImageButton Source="eqv.jpg"
+                         Grid.Row="5" Grid.Column="2"
+                         BackgroundColor="White"
+                         x:Name="buttonEqv"
+                         Clicked="ButtonEqv_Clicked"/>
+
+                <ImageButton Source="xclass.jpg"
+                         Grid.Row="6" Grid.Column="0"
+                         BackgroundColor="White"
+                         x:Name="buttonXclass"
+                         Clicked="ButtonXclass_Clicked"/>
+                <ImageButton Source="amggt.jpg"
+                         Grid.Row="6" Grid.Column="1"
+                         BackgroundColor="White"
+                         x:Name="buttonAmggt"
+                         Clicked="ButtonAmggt_Clicked"/>
+                <ImageButton Source="maybach.jpg"
+                         Grid.Row="6" Grid.Column="2"
+                         BackgroundColor="White"
+                         x:Name="buttonMaybach"
+                         Clicked="ButtonMaybach_Clicked"/>
+
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

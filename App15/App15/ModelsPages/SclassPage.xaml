@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App15.SclassPage"
+             xmlns:ff="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             Title="S-Class">
+    <!-- 1111111111111 -->
+    <ContentPage Title="Info" x:Name="label0">
+        <ScrollView Orientation="Vertical">
+            <StackLayout Orientation="Vertical" BackgroundColor="Black">
+                
+                <Label Text="   S-Class."
+                   FontSize="Large"
+                   TextColor="White"
+                   HorizontalOptions="Start"
+                   Margin="10,20,0,0"/>
+                
+                <Label Text="       Feel intelligent drive"
+                   x:Name="label1"
+                   FontSize="Large"
+                   TextColor="White"
+                   HorizontalOptions="Start"
+                   Margin="10,20,0,0"/>
+                
+                <Label Text=" "/>
+                
+                <Image Source="sclass6.jpg"
+                   Aspect="AspectFit"/>
+                
+                <Label Text="Discover impressive qualities."
+                       x:Name="label2"
+                       FontSize="Large"
+                       TextColor="White"
+                       HorizontalOptions="Center"
+                       Margin="10,20,0,0"/>
+                
+
+                <Label Text="The S-Class sedan blurs the line between work and leisure like no other. 
+Materials, atmosphere and quality of interior decoration meet the numerous 
+requirements for a luxury car. The S-Class at the genetic level has the desire 
+to demonstrate new technologies that no other car was equipped with before."
+                       x:Name="label3"
+                           FontSize="Medium"
+                           TextColor="White"
+                           Margin="10,10,0,0"/>
+                
+                <ff:CachedImage Source="sclassgif3.gif"
+                                    Margin="10,10,0,0"
+                                    HeightRequest="500"/>
+
+                <Label Text="Driving comfort"
+                       x:Name="label4"
+                       FontSize="Large"
+                       TextColor="White"
+                       HorizontalOptions="Center"
+                       Margin="0,20,20,0"/>
+                <Label Text="at the highest level."
+                       x:Name="label5"
+                       FontSize="Large"
+                       TextColor="White"
+                       HorizontalOptions="Center"/>
+
+                <ff:CachedImage Source="sclassgif.gif"
+                                Margin="0,10,0,0"
+                                HeightRequest="500"/>
+                
+                <Label Text="S-Class sedan even more accurately and prudently analyzes your 
+surroundings. It can respond even faster and thereby initially reduce 
+even more dangers. But above all, it unloads the driver and other 
+passengers like never before."
+                       x:Name="label6"
+                       TextColor="White"
+                       FontSize="Medium"
+                       Margin="10,10,10,0"/>
+
+                <ScrollView Orientation="Horizontal">
+                    <StackLayout Orientation="Horizontal" HeightRequest="400">
+                        <Image Source="sclass12.jpg"/>
+                        <Image Source="sclass11.jpg"/>
+                        <Image Source="sclass13.jpg"/>
+                        <Image Source="sclass9.jpg"/>
+                    </StackLayout>
+                </ScrollView>
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+    
+    <!-- 2222222222222 -->
+
+    <ContentPage Title="Configuration" x:Name="label7">
+        <ScrollView>
+            <StackLayout>
+
+                <Image x:Name="sclassconfig"
+               Source="sclassconfig.jpg"/>
+
+                <Label Text=""/>
+                <Label Text="Choose wheels:" HorizontalOptions="Center" TextColor="Black" FontSize="Large" x:Name="label8"/>
+
+                <StackLayout  Orientation="Horizontal"
+                          Margin="10,20,10,0"
+                          HorizontalOptions="Center">
+                    <ImageButton x:Name="wheel1" Source="w1.png" Aspect="AspectFit" BackgroundColor="White" Clicked="Wheel1_Clicked" Margin="0,0,10,0"/>
+                    <ImageButton x:Name="wheel2" Source="w2.png" Aspect="AspectFit" BackgroundColor="White" Clicked="Wheel2_Clicked" Margin="10,0,10,0"/>
+                    <ImageButton x:Name="wheel3" Source="w3.png" Aspect="AspectFit" BackgroundColor="White" Clicked="Wheel3_Clicked" Margin="10,0,0,0"/>
+                </StackLayout>
+
+                <Label Text=""/>
+                <Label Text="Choose color:" HorizontalOptions="Center" TextColor="Black" FontSize="Large" x:Name="label9"/>
+
+                <StackLayout  Orientation="Horizontal"
+                          Margin="10,20,10,0"
+                          HorizontalOptions="Center">
+                    <ImageButton x:Name="color1" Source="c1.jpg" Aspect="AspectFit" Clicked="Color1_Clicked" Margin="0,0,10,0"/>
+                    <ImageButton x:Name="color2" Source="c2.jpg" Aspect="AspectFit" Clicked="Color2_Clicked" Margin="10,0,10,0"/>
+                    <ImageButton x:Name="color3" Source="c3.jpg" Aspect="AspectFit" Clicked="Color3_Clicked" Margin="10,0,0,0"/>
+                </StackLayout>
+
+
+                <Picker x:Name="picker" SelectedIndexChanged="Picker_SelectedItem" Title="Available versions:" FontSize="Large"
+                    HorizontalOptions="Center" WidthRequest="300" Margin="0,30,0,30">
+                    <Picker.Items>
+                        <x:String>S350d 4MATIC</x:String>
+                        <x:String>S400d 4MATIC</x:String>
+                        <x:String>S450 4MATIC</x:String>
+                        <x:String>S560 4MATIC</x:String>
+                        <x:String>S600 4MATIC</x:String>
+                        <x:String>S63 AMG 4MATIC+</x:String>
+                    </Picker.Items>
+                </Picker>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Label x:Name="hp" Text="HP:" FontSize="Large" TextColor="Black" Margin="0,0,30,0"/>
+                    <Label x:Name="speed" Text="0-100:" FontSize="Large" TextColor="Black" Margin="30,0,30,0"/>
+                    <Label x:Name="eng" Text="Capacity:" FontSize="Large" TextColor="Black" Margin="30,0,0,0"/>
+                </StackLayout>
+
+                <Grid  HorizontalOptions="Center" HeightRequest="130" Margin="0,20,0,0" BackgroundColor="Black">
+                    <ImageButton x:Name="start"
+                             Source="engine.png"
+                             Margin="0,0,20,0"
+                             Clicked="Start_Clicked"
+                             Grid.Column="0" Grid.Row="0"/>
+                    <ImageButton x:Name="launch"
+                             Source="launch.png"
+                             Margin="20,0,0,0"
+                             Clicked="Launch_Clicked"
+                             Grid.Column="1" Grid.Row="0"/>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+</TabbedPage>
